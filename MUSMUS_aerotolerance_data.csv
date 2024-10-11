@@ -1,0 +1,986 @@
+Kingdom,Phylum,Class,Order,Family,Genus,Aerotolerance,Aerotolerance_cat,Reference,Comments,Citation_link
+Bacteria,Firmicutes,Clostridia,Oscillospirales,[Clostridium] methylpentosum group,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,[Eubacterium] coprostanoligenes group,Other, ,unknown,NA,NA,NA
+Bacteria,Actinobacteriota,Thermoleophilia,Solirubrobacterales,67-14,Other, ,unknown,NA,NA,NA
+Bacteria,Chloroflexi,Anaerolineae,SBR1031,A4b,Other, ,unknown,NA,NA,NA
+Bacteria,Abditibacteriota,Abditibacteria,Abditibacteriales,Abditibacteriaceae,Abditibacterium,A,aerotolerant,"Tahon et al., 2018",NA,https://www.sciencedirect.com/science/article/abs/pii/S0723202018300341?via%3Dihub
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Acetobacter,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Acidicaldus,A,aerotolerant,"Johnson et al., 2006",NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Acidiphilium,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Acidisoma,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA/A,aerotolerant,Bergey's manual,NA,NA
+,,,,Acetobacteraceae,Belnapia,A,aerotolerant,Bergey's Manual,Based on Acetobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Endobacter,A,aerotolerant,Bergey's Manual,Based on Acetobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Gluconobacter,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Other,A,aerotolerant,Bergey's Manual,Based on Acetobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Rhodovastum,A,aerotolerant,Bergey's Manual,Based on Acetobacteraceae,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Acetobacterales,Acetobacteraceae,Roseomonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Anaeroplasma,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's manual; same for both genera except spore formation is unknown for Acidipila but NSF for Silvibacterium,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Acidobacteriota,Acidobacteriae,Acidobacteriales,Acidobacteriaceae (Subgroup 1),Edaphobacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Acidothermaceae,Acidothermus,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's manual,NA,NA
+,,,,Aerococcaceae,Aerosphaera,FAN,aerotolerant,Bergey's Manual,Based on Aerococcaceae,NA
+,,,,Aerococcaceae,Bavariicoccus,FAN,aerotolerant,Bergey's Manual,Based on Aerococcaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Facklamia,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Other,FAN,aerotolerant,Bergey's Manual,Based on Aerococcaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Aeromonadaceae,Oceanisphaera,FAN,aerotolerant,Bergey's Manual,Based on Aeromonadaceae,NA
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Chloroflexi,Chloroflexia,Thermomicrobiales,AKYG1722,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,A?,aerotolerant,Bergey's Manual,NA,NA
+,,,,Alcaligenaceae,Advenella,A,aerotolerant,Bergey's Manual,Based on Alcaligenaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes,A,aerotolerant,Bergey's Manual,Based on Alcaligenaceae,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Candidimonas,A/FA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Liu et al., 2008",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65314-0
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Eoetvoesia,A,aerotolerant,Bergey's Manual,Based on Alcaligenaceae,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Other,A,aerotolerant,Bergey's Manual,Based on Alcaligenaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Paenalcaligenes,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Verticiella,FA,aerotolerant,Vandamme et al. 2015,not in Bergey's,NA
+NA,NA,NA,NA,NA,NA,A/MA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Alicyclobacillales,Alicyclobacillaceae,Tumebacillus,A,aerotolerant,Bergey's Manual (based on Alicyclobacillaceae),NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Du et al., 2015",NA,https://link.springer.com/article/10.1007/s10482-014-0368-0
+,,,,Alteromonadaceae,Rheinheimera,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Amoebophilaceae,Candidatus Cardinium, ,unknown,not in Bergey's,family not on bergeys,NA
+Bacteria,Firmicutes,Clostridia,Eubacteriales,Anaerofustaceae,Anaerofustis,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Sanford et al., 2002",NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC126698/
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,[Eubacterium] brachy group,OAN,nonaerotolerant,Bergey's Manual,Based on Eubacterium,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,[Eubacterium] nodatum group,OAN,nonaerotolerant,Bergey's Manual,Based on Eubacterium,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Anaerovorax,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group,OAN,nonaerotolerant,Bergey's Manual (based on genus Anaerovorax in absence of information on family Anaerovoracaceae),Based on Anaerovorax,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII UCG-001,OAN,nonaerotolerant,Bergey's Manual (based on genus Anaerovorax in absence of information on family Anaerovoracaceae),not in Bergey's,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Wolbachia, ,unknown,not in Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,MA/A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN/FAN,mixed,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Coriobacteriaceae UCG-002,OAN/FAN,mixed,"The Family Coriobacteriaceae, The Prokaryotes book","From 'The Family Coriobacteriaceae, the Prokaryotes book': ""Coriobacteriaceae are usually nonmotile, nonspore-forming, nonhemolytic, and strictly anaerobic bacteria that grow as small rods; stain Gram-positive""",NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Coriobacteriaceae UCG-003,OAN/FAN,aerotolerant,Bergey's Manual,Based on Atopobiaceae,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Chung et al., 2015",NA,https://link.springer.com/article/10.1007/s10482-015-0528-x
+Bacteria,Proteobacteria,Alphaproteobacteria,Azospirillales,Azospirillaceae,Skermanella,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Allobacillus,NA,unknown,not in Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,OAN/A/FAN,mixed,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,A/FA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Falsibacillus, ,unknown,"Shi et al., 2019; Zhou et al., 2009",NA,https://pubmed.ncbi.nlm.nih.gov/30839250/; https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.014316-0
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Microaerobacter, ,unknown,not in Bergey's,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Natronobacillus, ,unknown,not in Bergey's,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Other, ,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,AN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidales RF16 group,Other,AN/FAN,aerotolerant,Bergey's Manual,Based on Bacteroidales RF16 group,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Urios et al., 2006",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64285-0
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Coprobacter, ,unknown,not in Bergey's,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Bdellovibrionota,Bdellovibrionia,Bdellovibrionales,Bdellovibrionaceae,Bdellovibrio,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Bdellovibrionaceae,OM27 clade,NA,unknown,NA,Have not looked from beyond Bergey's,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,1174-901-12,A,aerotolerant,Bergey's Manual,Based on Beijerinckiaceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,Based on Beijerinckiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Bosea,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Methylobacterium-Methylorubrum,A,aerotolerant,Bergey's Manual,Based on Methylobacterium,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Microvirga,A,aerotolerant,Kanso & Patel 2003,Not in Bergey's,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Other,A,aerotolerant,Bergey's Manual,Based on Beijerinckiaceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,Based on Beijerinckiaceae,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Roseiarcus, ,unknown,"Kulichevskaya et al., 2014",NA,https://pubmed.ncbi.nlm.nih.gov/24812364/
+Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,AN/OAN,mixed,Bergey's Manual,"From Bergeys: ""Anaerobic; some species can tolerate O2, but only in the presence of CO2 and the more recently described species, such as Bifidobacterium psychraerophilum, Bifidobacterium scardovii, and Bifidobacterium tsurumiense, can grow under aerobic conditions (Okamoto et al., 2008).""",NA
+,,,,Bifidobacteriaceae,Neoscardovia,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,Based on Blastocatellaceae,NA
+NA,NA,NA,NA,NA,NA,A/MA,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,"Mixed? ""consists of obligately anaerobic, aerotolerant spriochetes, which..""",unknown,Bergey's manual,NA,NA
+Bacteria,Desulfobacterota,Desulfuromonadia,Bradymonadales,Bradymonadaceae,Bradymonas, ,unknown,"Wang et al., 2015",NA,https://pubmed.ncbi.nlm.nih.gov/25713043/
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Brevibacteriaceae,Brevibacterium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Brevibacteriaceae,Spelaeicoccus,A,aerotolerant,"Lee, 2013",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.050732-0
+Bacteria,Acidobacteriota,Acidobacteriae,Bryobacterales,Bryobacteraceae,Bryobacter,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Budviciaceae,Budvicia,FAN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Burkholderiaceae,Burkholderia-Caballeronia-Paraburkholderia,OA/FAN,aerotolerant,Bergey's Manual,Based on Burkholderiaceae,NA
+NA,NA,NA,NA,NA,NA,OA/FAN,aerotolerant,Bergey's manual,Based on Burkholderiaceae,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,Butyricicoccus,OAN,nonaerotolerant,"Trachsel et al., 2018",Not in Bergey's,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-008, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,UCG-009,OAN,nonaerotolerant,"Bergey's Manual, Baron, 1996 (based on Class Clostridia)",Based on Clostridia,NA
+Bacteria,Firmicutes,Clostridia,Caldicoprobacterales,Caldicoprobacteraceae,Caldicoprobacter,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+,,,,Caloramatoraceae,Fonticella,OAN,nonaerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Candidatus Hepatincola,Other, ,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Carnobacterium,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,MA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Iino et al., 2009",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.003293-0
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Marinilactibacillus,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Catellicoccaceae,Catellicoccus, ,unknown,"Lawson et al., 2006",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.63874-0
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Liu et al., 2005",NA,Asticcacaulis
+Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Phenylobacterium,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Cellulomonadaceae,Cellulomonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Cellulomonadaceae,Oerskovia,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Cellulomonadaceae,Paraoerskovia,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Cellulomonadaceae,Pseudactinotalea, ,unknown,not in Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Hamada et al., 2012",NA,https://link.springer.com/article/10.1007/s10482-012-9742-y
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Cellvibrionaceae,Cellvibrio,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Du et al., 2009",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.001313-0
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Guo et al., 2016",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000925
+NA,NA,NA,NA,NA,NA,A/FAN,aerotolerant,"Madhaiyan et al., 2015",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.069377-0
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Chitinophaga,A/FAN,aerotolerant,based on Chitinophagaceae fam nov from Bergey's Manual,Based on Chitinophagaceae,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Cao et al., 2017",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002316
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Lee et al., 2016",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001207
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Liu et al., 2018",NA,https://link.springer.com/article/10.1007/s10482-018-1156-z
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Haoranjiania,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Chitinophagaceae,Niabella,A/FAN,aerotolerant,Bergey's Manual,Based on Chitinophagaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Other,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A/FAN,aerotolerant,"Kim et al., 2014",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.061945-0
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Dahal et al., 2017",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002452
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Qu et al., 2008",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65514-0
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Chitinophagaceae,Segetibacter,A/FAN,aerotolerant,Bergey's Manual (based on Chitinophagaceae),NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Zhang et al., 2013",NA,https://pubmed.ncbi.nlm.nih.gov/23645023/
+Bacteria,Firmicutes,Clostridia,Christensenellales,Christensenellaceae,Christensenella,OAN,nonaerotolerant,"Morotomi et al., 2012",NA,NA
+Bacteria,Firmicutes,Clostridia,Christensenellales,Christensenellaceae,Christensenellaceae R-7 group,OAN,nonaerotolerant,"Morotomi et al., 2012",NA,NA
+Bacteria,Firmicutes,Clostridia,Christensenellales,Christensenellaceae,Other,OAN,nonaerotolerant,"Morotomi et al., 2012",NA,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,Chroococcidiopsaceae,Aliterella, ,unknown,not in Bergey's,NA,NA
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Chthoniobacterales,Chthoniobacteraceae,Candidatus Udaeobacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Candidatus Arthromitus,OAN,nonaerotolerant,Schnupf et al. 2015,Not in Bergey's,NA
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 1,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+,,,,Clostridiaceae,Clostridium sensu stricto 12,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+,,,,Clostridiaceae,Clostridium sensu stricto 13,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+,,,,Clostridiaceae,Clostridium sensu stricto 15,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+,,,,Clostridiaceae,Clostridium sensu stricto 18,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 5,OAN,nonaerotolerant,Bergey's Manual based on Clostridiaceae,Based on Clostridiaceae,NA
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 6,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 7,OAN,nonaerotolerant,Bergey's Manual based on Clostridiaceae,Based on Clostridiaceae,NA
+,,,,Clostridiaceae,Clostridium sensu stricto 9,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+,,,,Clostridiaceae,Hathewaya,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Other,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+,,,,Clostridiaceae,Proteiniclasticum,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's Manual,Based on Clostridiaceae,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Yamano et al., 2023",NA,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286693
+NA,NA,NA,NA,NA,NA,MA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Dahal et al., 2020",NA,https://link.springer.com/article/10.1007/s00203-020-02110-8
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonas,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Lampropedia,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Limnohabitans,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FA,aerotolerant,"Nakatsu et al., 2006",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.63524-0
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Other,unknown,unknown,Bergey's Manual,Based on Comamonadaceae,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Cho et al., 2016",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001438
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Polaromonas,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Comamonadaceae,Pseudorhodoferax,A,aerotolerant,"Bergey's Manual; Bruland et al., 2009",Based on Comamonadaceae,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.006791-0
+,,,,Comamonadaceae,Ramlibacter,unknown,unknown,Bergey's Manual,Based on Comamonadaceae,NA
+NA,NA,NA,NA,NA,NA,A/FAN,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's manual,NA,NA
+,,,,Comamonadaceae,Rivibacter,unknown,unknown,Bergey's Manual,Based on Comamonadaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Simplicispira,FAN,aerotolerant,"Bergey's manual (based on family); Siddiqi et al., 2019",Based on Comamonadaceae,https://link.springer.com/article/10.1007/s10482-019-01341-0
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Variovorax,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Xenophilus,unknown,unknown,Bergey's manual (based on family),Based on Comamonadaceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Coralloluteibacterium,Other, ,unknown,NA,NA,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Coriobacteriales Incertae Sedis,Other, ,unknown,NA,NA,NA
+,,,,Coriobacteriales Incertae Sedis,Raoultibacter,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,A/FA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Corynebacteriales Incertae Sedis,Tomitella, ,unknown,"Katayama et al., 2010",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.017962-0
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,"""Strictly intracellular""",NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,Fluviicola,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Crocinitomicaceae,Other, ,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Cryomorphaceae,Other,OA/FAN,aerotolerant,Bergey's Manual,Based on Cryomorphaceae,NA
+NA,NA,NA,NA,NA,NA,OA/FAN,aerotolerant,"Wiese et al., 2018",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002509
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Synechococcales,Cyanobiaceae,Synechococcus CC9902, ,unknown,not in Bergey's,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Algoriphagus,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Lin et al., 2015",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.000126
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Liu et al., 2012",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.035766-0
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Other,A,aerotolerant,Bergey's Manual,Based on Cyclobacteriaceae,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Deferribacterota,Deferribacteres,Deferribacterales,Deferribacteraceae,Mucispirillum,NA,unknown,Not on Bergey's,NA,NA
+,,,,Defluviicoccaceae,Defluviicoccus,AN,aerotolerant,Bergey's Manual,Based on Defluviitaleaceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Defluviitaleaceae,Defluviitaleaceae UCG-011,AN,aerotolerant,Bergey's Manual based on Defluviitaleaceae,Based on Defluviitaleaceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Demequinaceae,Demequina, ,unknown,"Yi et al., 2007",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64525-0
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Dermabacteraceae,Brachybacterium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Dermabacteraceae,Helcobacillus,A/FAN,aerotolerant,"Bergey's manual (based on family); Renvoise et al., 2009",Based on Dermabacteraceae,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.003319-0
+NA,NA,NA,NA,NA,NA,unknown,unknown,"Tomida et al., 2011",NA,https://www.sciencedirect.com/science/article/abs/pii/S0723202011001585?via%3Dihub
+NA,NA,NA,NA,NA,NA,A/MA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Dermacoccaceae,Flexivirga,A/MA,aerotolerant,Bergey's Manual,Based on Dermacoccaceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Ara et al., 2010",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.009936-0
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Dermacoccaceae,Other,A/MA,aerotolerant,Bergey's Manual,Based on Dermacoccaceae,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,"Villemur et al., 2006",NA,https://academic.oup.com/femsre/article/30/5/706/2399023
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Bilophila,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Lawsonia,OAN,nonaerotolerant,Bergey's Manual,Based on Desulfovibrionaceae,NA
+,,,,Desulfovibrionaceae,Mailhella,OAN,nonaerotolerant,Bergey's Manual,Based on Desulfovibrionaceae,NA
+Bacteria,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Other,OAN,nonaerotolerant,Bergey's Manual,Based on Desulfovibrionaceae,NA
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,DEV007,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Devosiaceae,Arsenicitalea,A,aerotolerant,"Mu et al., 2016",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001543
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Devosiaceae,Devosia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Devosiaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Devosiaceae,Pelagibacterium, ,unknown,not in Bergey's,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Dietziaceae,Dietzia,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Diplorickettsiales,Diplorickettsiaceae,Diplorickettsia,unknown,aerotolerant,Mediannikov et al. 2010,intracellular insect pathogen,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Diplorickettsiales,Diplorickettsiaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Diplorickettsiales,Diplorickettsiaceae,Rickettsiella,OA (Intracellular)?,aerotolerant,Bergey's Manual,intracellular insect pathogen,NA
+,,,,Dongiaceae,Dongia,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Dysgonomonas,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Adlercreutzia,OAN,nonaerotolerant,Bergey's Manual,Some strains may be aerotolerant,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Asaccharobacter,AN,aerotolerant,Bergey's Manual,Based on Eggerthellaceae,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,DNF00809,OAN?,nonaerotolerant,Bergey's manual (based on majority rule in family Eggerthellaceae ),Based on Eggerthellaceae,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Eggerthella,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Enterorhabdus,FA,aerotolerant,Clavel et al. 2009,Not in Bergey's,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Gordonibacter,OAN,nonaerotolerant,"Wurdemann et al., 2009, Bergey's Manual",NA,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Other,AN,aerotolerant,Bergey's Manual,Based on Eggerthellaceae,NA
+Bacteria,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Parvibacter,OA,aerotolerant,"Clavel et al., 2013",not in Bergey's,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Aquamonas,FAN,aerotolerant,"Bergey's Manual, Degelmann et al., 2016Dorlands medical dictionary",Based on Enterobacteriaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Atlantibacter,FAN,aerotolerant,"Bergey's Manual, Degelmann et al., 2016Dorlands medical dictionary",Based on Enterobacteriaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Buttiauxella,FA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cedecea,FAN,aerotolerant,"Bergey's Manual, Degelmann et al., 2010",NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,FAN,aerotolerant,"Bergey's Manual, Degelmann et al., 2011",NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia-Shigella,A/FA,aerotolerant,Bergey's Manual (based on Escherichia),Based on Escherichia,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Gao et al., 2017",NA,https://www.microbiologyresearch.org/docserver/fulltext/ijsem/67/12/4962_ijsem002358.pdf?expires=1716543172&id=id&accname=guest&checksum=5F3549B88F3DF66134B8977058E51E1B
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kluyvera,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kosakonia,FAN,aerotolerant,Bergey's manual Dorlands medical dictionary (based on family),Based on Enterobacteriaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Other,FAN,aerotolerant,"Bergey's Manual, Degelmann et al., 2016Dorlands medical dictionary",Based on Enterobacteriaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Raoultella,FAN,aerotolerant,"Bergey's Manual, Degelmann et al., 2016 Dorlands medical dictionary",Based on Enterobacteriaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,FAN,aerotolerant,"Bergey's Manual, Degelmann et al., 2015",NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Yokenella,FAN,aerotolerant,"Bergey's Manual, Degelmann et al., 2016",NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,FA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Bacilli,Entomoplasmatales,Entomoplasmatales Incertae Sedis,Candidatus Hepatoplasma, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,FAN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Erwiniaceae,Phaseolibacter,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Siccibacter, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Tatumella,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Candidatus Stoquefichus,A/FA?,aerotolerant,Bergey's Manual (aerotolerance and sporulation information based on family Erysipelotrichaceae - gram stain information based on order Erysipelotrichales,Based on Erysipelatoclostridiaceae,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Catenibacterium,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Coprobacillus,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelatoclostridium,OAN,nonaerotolerant,"Yutin & Galperin, 2013",Not in Bergey's,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelotrichaceae UCG-003,A/FAN,aerotolerant,Bergey's Manual based on Erysipelotrichaceae,Based on Erysipelatoclostridiaceae,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Other,A/FAN,aerotolerant,Bergey's Manual,Based on Erysipelatoclostridiaceae,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,[Clostridium] innocuum group,A/FAN,aerotolerant,Bergey's Manual based on Erysipelotrichaceae,Based on Erysipelotrichaceae,NA
+,,,,Erysipelotrichaceae,Breznakia,A/FAN,aerotolerant,Bergey's Manual,Based on Erysipelatoclostridiaceae,NA
+,,,,Erysipelotrichaceae,Dielma,A/FAN,aerotolerant,Bergey's Manual,Based on Erysipelatoclostridiaceae,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Dubosiella,OAN,nonaerotolerant,"Cox, L. M., Sohn, J., Tyrrell, K. L., Citron, D. M., Lawson, P. A., Patel, N. B., ... & Blaser, M. J. (2017). Description of two novel members of the family Erysipelotrichaceae: Ileibacterium valens gen. nov., sp. nov. and Dubosiella newyorkensis, gen. nov., sp. nov., from the murine intestine, and emendation to the description of Faecalibacterium rodentium. International journal of systematic and evolutionary microbiology, 67(5), 1247.",NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Erysipelotrichaceae UCG-008,A/FAN,aerotolerant,Bergey's Manual based on Erysipelotrichaceae,Based on Erysipelotrichaceae,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Faecalibaculum,OAN,nonaerotolerant,"Chang, D. H., Rhee, M. S., Ahn, S., Bang, B. H., Oh, J. E., Lee, H. K., & Kim, B. C. (2015). Faecalibaculum rodentium gen. nov., sp. nov., isolated from the faeces of a laboratory mouse. Antonie Van Leeuwenhoek, 108(6), 1309-1318.",NA,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Faecalitalea,A/FAN,aerotolerant,Bergey's Manual based on Erysipelotrichaceae,Based on Erysipelotrichaceae,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,A/FAN,aerotolerant,Bergey's Manual based on Erysipelotrichaceae,Based on Erysipelotrichaceae,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Ileibacterium,A/FAN,aerotolerant,Bergey's Manual based on Erysipelotrichaceae,Based on Erysipelotrichaceae,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Other,A/FAN,aerotolerant,Bergey's Manual,Based on Erysipelotrichaceae,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Turicibacter,AN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,ZOR0006,A/FAN,aerotolerant,Bergey's Manual based on Erysipelotrichaceae,Based on Erysipelotrichaceae,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Eubacteriales,Eubacteriaceae,Other,OAN,nonaerotolerant,Bergey's Manual,Based on Eubacteriaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Euzebyales,Euzebyaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Bacilli,Exiguobacterales,Exiguobacteraceae,Exiguobacterium,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Other, ,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,AN,aerotolerant,Bergey's Manual,"Said to be anaerobic but not 'obligate' specifically, so listing as aerotolerant",NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Tissierella,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Aequorivita,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Aquibacter,A/MA/AN,aerotolerant,Bergey's manual (based on family),Based on Flavobacteriaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Arenibacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Aurantiacicella,A/MA/AN,aerotolerant,Bergey's Manual,Based on Flavobacteriaceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Song et al., 2015",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000662
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Wang et al., 2017",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002439
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Han et al., 2017",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002239
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Cho et al., 2017",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002292
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Flavobacteriaceae,Galbibacter,A/MA/AN,aerotolerant,Bergey's Manual,Based on Flavobacteriaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Gelidibacter,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Gillisia,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Imtechella,A/MA/AN,aerotolerant,Bergey's Manual,Based on Flavobacteriaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Leeuwenhoekiella,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Romanenko et al., 2007",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64662-0
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Muricauda,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Myroides,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Other,A/MA/AN,aerotolerant,Bergey's Manual,Based on Flavobacteriaceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Yu et al., 2012",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.037515-0
+,,,,Flavobacteriaceae,Pseudozobellia,A/MA/AN,aerotolerant,Bergey's Manual,Based on Flavobacteriaceae,NA
+NA,NA,NA,NA,NA,NA,unknown,unknown,"Yoon et al., 2017",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65253-0
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Subsaxibacter,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Chen et al., 2016",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001184
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Frankiaceae,Frankia,A/MA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Frankiaceae,Jatrophihabitans,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Cetobacterium,MA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Thermoleophilia,Gaiellales,Gaiellaceae,Gaiella,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Eubacteriales,Garciellaceae,Rhabdanaerobium,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Gemellaceae,Gemella,FAN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Geminicoccaceae,Arboricoccus,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Tistrellales,Geminicoccaceae,Candidatus Alysiosphaera, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Tistrellales,Geminicoccaceae,Geminicoccus, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Tistrellales,Geminicoccaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Gemmatales,Gemmataceae,Fimbriiglobus,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Gemmatales,Gemmataceae,Gemmata,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Gemmatales,Gemmataceae,Other,OA,aerotolerant,Bergey's Manual,Based on Gemmataceae,NA
+Bacteria,Gemmatimonadota,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Gemmatimonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Gemmatimonadota,Gemmatimonadetes,Gemmatimonadales,Gemmatimonadaceae,Other, ,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,A/MA,aerotolerant,"Pascual et al., 2018",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.002619
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Geodermatophilaceae,Antricoccus,A,aerotolerant,Bergey's Manual,Based on Geodermatophilaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Geodermatophilaceae,Blastococcus,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Geodermatophilaceae,Klenkia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Geodermatophilaceae,Modestobacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Gottschalkia,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Granulosicoccales,Granulosicoccaceae,Granulosicoccus, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Edwardsiella,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia-Obesumbacterium,FAN,aerotolerant,Bergey's Manual based on Hafnia,Based on Hafniaceae,NA
+,,,,Haliangiaceae,Haliangium,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Park et al., 2012",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.031443-0
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Konkit et al., 2016",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000803
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Halomonadaceae,Chromohalobacter,OA/FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Halomonadaceae,Halomonas,OA/FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Halomonadaceae,Salinicola,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,MA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,AN,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Hydrogenoanaerobacterium,Other, ,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Hyphomicrobium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Hyphomicrobiaceae,Pedomicrobium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Acidimicrobiia,Microtrichales,Iamiaceae,Iamia,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Huang et al., 2012",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.030064-0
+Bacteria,Actinobacteriota,Acidimicrobiia,Microtrichales,Ilumatobacteraceae,CL500-29 marine group, ,unknown,not in Bergey's,NA,NA
+Bacteria,Actinobacteriota,Acidimicrobiia,Microtrichales,Ilumatobacteraceae,Ilumatobacter,A,aerotolerant,"Matsumoto et al., 2009",NA,https://www.jstage.jst.go.jp/article/jgam/55/3/55_3_201/_article
+Bacteria,Actinobacteriota,Acidimicrobiia,Microtrichales,Ilumatobacteraceae,Other, ,unknown,NA,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Intrasporangiaceae,Humibacillus,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Intrasporangiaceae,Intrasporangium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Intrasporangiaceae,Janibacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Intrasporangiaceae,Knoellia,A/MA,aerotolerant,Bergey's Manual,NA,NA
+,,,,Intrasporangiaceae,Ornithinibacter,A/FAN,aerotolerant,Bergey's Manual,Based on Intrasporangiaceae,NA
+,,,,Intrasporangiaceae,Ornithinicoccus,A/MA,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,A/MA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Intrasporangiaceae,Oryzihumus,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Intrasporangiaceae,Other,A/FAN,aerotolerant,Bergey's Manual,Based on Intrasporangiaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Intrasporangiaceae,Pedococcus-Phycicoccus,A/FAN,aerotolerant,Bergey's manual (based on family),Based on Intrasporangiaceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Isosphaerales,Isosphaeraceae,Aquisphaera,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Isosphaerales,Isosphaeraceae,Candidatus Nostocoida,A,aerotolerant,Bergey's Manual,Based on Isosphaeraceae,NA
+Bacteria,Planctomycetota,Planctomycetes,Isosphaerales,Isosphaeraceae,Isosphaera,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Isosphaerales,Isosphaeraceae,Other,A,aerotolerant,Bergey's Manual,Based on Isosphaeraceae,NA
+Bacteria,Planctomycetota,Planctomycetes,Isosphaerales,Isosphaeraceae,Paludisphaera,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Isosphaerales,Isosphaeraceae,Singulisphaera,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Isosphaerales,Isosphaeraceae,Tundrisphaera,A,aerotolerant,Bergey's Manual,Based on Isosphaeraceae,NA
+Bacteria,Chloroflexi,Chloroflexia,Thermomicrobiales,JG30-KF-CM45,Other, ,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Kaistiaceae,Kaistia, ,unknown,"Im et al., 2004",NA,https://www.jstage.jst.go.jp/article/jgam/50/5/50_5_249/_article
+Bacteria,Actinobacteriota,Actinobacteria,Kineosporiales,Kineosporiaceae,Angustibacter,FAN/A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Kineosporiales,Kineosporiaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Kineosporiales,Kineosporiaceae,Quadrisphaera,unknown,unknown,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+,,,,Ktedonobacteraceae,FCPS473,A,aerotolerant,Bergey's Manual,Based on Ktedonobacteraceae,NA
+Bacteria,Chloroflexi,Ktedonobacteria,Ktedonobacterales,Ktedonobacteraceae,G12-WMSP1,A,aerotolerant,Bergey's manual (based on family),Based on Ktedonobacteraceae,NA
+Bacteria,Chloroflexi,Ktedonobacteria,Ktedonobacterales,Ktedonobacteraceae,HSB OF53-F07,A,aerotolerant,Bergey's manual (based on family),Based on Ktedonobacteraceae,NA
+,,,,Ktedonobacteraceae,JG30a-KF-32,A,aerotolerant,Bergey's Manual,Based on Ktedonobacteraceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Labraceae,Labrys,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Acetivibrio] ethanolgignens group, ,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] eligens group,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] fissicatena group,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] hallii group,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] oxidoreducens group,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] ventriosum group,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] xylanophilum group,OAN,nonaerotolerant,Bergey's Manual (based on genus Eubacterium),Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gauvreauii group,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gnavus group,OAN,nonaerotolerant,"Bergey's Manual, Browne et al. 2016  (based on Ruminococcus)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] torques group,OAN,nonaerotolerant,"Bergey's Manual, Browne et al. 2016  (based on Ruminococcus)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,28-Apr,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,A2,OAN,nonaerotolerant,Bergey's Manual (based on family Lachnospiraceae),Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Acetatifactor,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+NA,NA,NA,NA,NA,NA,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter,AN,aerotolerant,Rosero et al.,Based on Lachnospiraceae,NA
+NA,NA,NA,NA,NA,NA,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Anaerosporobacter,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+,,,,Lachnospiraceae,Anaerostignum,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostipes,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,ASF356,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,OAN,nonaerotolerant,"Liu et al., 2021, Maturana & C‡rdenas, 2021",Based on Lachnospiraceae,NA
+,,,,Lachnospiraceae,Catenibacillus,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Cellulosilyticum,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Cuneatibacter,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Dorea,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Eisenbergiella,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Epulopiscium,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Fusicatenibacter,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,GCA-900066575,OAN,nonaerotolerant,Bergey's Manual (based on family Lachnospiraceae),Based on Lachnospiraceae,NA
+NA,NA,NA,NA,NA,NA,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+NA,NA,NA,NA,NA,NA,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Hungatella,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+,,,,Lachnospiraceae,Incertae Sedis,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+NA,NA,NA,NA,NA,NA,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnoclostridium,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae FCS020 group,OAN,nonaerotolerant,Bergey's Manual (based on family Lachnospiraceae),Based on Lachnospiraceae,NA
+,,,,Lachnospiraceae,Lachnospiraceae NC2004 group,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+,,,,Lachnospiraceae,Lachnospiraceae NK3A20 group,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group,OAN,nonaerotolerant,Bergey's Manual (based on family Lachnospiraceae),Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4B4 group,AN,aerotolerant,Bergey's Manual based on Lachnospiraceae fam,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-001,OAN,nonaerotolerant,Bergey's Manual (based on family Lachnospiraceae),Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-002,AN,aerotolerant,Bergey's Manual based on Lachnospiraceae fam,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-006,OAN,nonaerotolerant,Bergey's Manual (based on family Lachnospiraceae),Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-008,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-010,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Marvinbryantia,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Murimonas,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Other,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,possible genus Sk018,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Robinsoniella,AN,aerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Sellimonas,AN,aerotolerant,Bergey's Manual (based on Lachnospiraceae All species are anaerobes.),Based on Lachnospiraceae,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Tuzzerella,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Tyzzerella,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Agrilactobacillus,unknown,unknown,Bergey's Manual,Based on Lactobacillaceae,NA
+,,,,Lactobacillaceae,Amylolactobacillus,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Bombilactobacillus,unknown,unknown,Bergey's Manual,Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Companilactobacillus,unknown,unknown,Bergey's Manual,Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Dellaglioa,unknown,unknown,Bergey's Manual (based on Lactobacillaceae),Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,HT002,unknown,unknown,Bergey's Manual (based on Lactobacillaceae),Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus,unknown,unknown,Bergey's Manual,Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactiplantibacillus,unknown,unknown,Bergey's Manual (based on Lactobacillaceae),Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,FAN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Lactobacillaceae,Lapidilactobacillus,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Latilactobacillus,unknown,unknown,Bergey's Manual (based on Lactobacillaceae),Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,FAN,aerotolerant,"Bergey's Manual; Menegueti et al., 2018",NA,https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3452-7
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Levilactobacillus,unknown,unknown,Bergey's Manual,Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Ligilactobacillus,mixed,aerotolerant,"Zheng et al. 2020, Marta et al 2021","Aerotolerance N/A based on Marta et al., 2021; Zheng et al., 2020 - so BLASTed ASVs; blasts to Ligilactobacillus murinus and Ligilactobacillus animalis which are A refs: https://bacdive.dsmz.de/strain/130961#ref22253, https://bacdive.dsmz.de/strain/6416",NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,mixed,aerotolerant,Zheng et al. 2020,"aerotolerance was N/A (Zheng et a., 2020) so BLASTed and blasts against Limosilactobacillus reuteri: is A ref: https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2121580",NA
+,,,,Lactobacillaceae,Liquorilactobacillus,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+,,,,Lactobacillaceae,Loigolactobacillus,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Other,unknown,unknown,Bergey's Manual,Based on Lactobacillaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Paucilactobacillus,unknown,unknown,Bergey's Manual,Based on Lactobacillaceae,NA
+,,,,Lactobacillaceae,Secundilactobacillus,OAN,nonaerotolerant,Bergey's Manual,Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Weissella,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Leptolyngbyaceae,Leptolyngbya ANT.L52.2,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Leptolyngbyales,Leptolyngbyaceae,Leptolyngbya PCC-6306, ,unknown,not in Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,FAN/A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Listeriaceae,Brochothrix,A/FAN,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria,A/FAN,aerotolerant,Bergey's Manual based on Listeriaceae family,Based on Listeriaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Butyricimonas, ,unknown,NA,Not in Bergey's,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Odoribacter,OAN,nonaerotolerant,"Hardham, J. M., King, K. W., Dreier, K., Wong, J., Strietzel, C., Eversole, R. R., ... & Evans, R. T. (2008). Transfer of Bacteroides splanchnicus to Odoribacter gen. nov. as Odoribacter splanchnicus comb. nov., and description of Odoribacter denticanis sp. nov., isolated from the crevicular spaces of canine periodontitis patients. International journal of systematic and evolutionary microbiology, 58(1), 103-109.",Not in Bergey's?,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinifilaceae,Sanguibacteroides, ,unknown,not in Bergey's,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinilabiliaceae,Natronoflexus,unknown,unknown,Bergey's Manual,Based on Marinilabiliaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Marinilabiliaceae,Other,unknown,unknown,Bergey's Manual,Based on Marinilabiliaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,AN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Marinococcaceae,Marinococcus,OAN,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methyloligellaceae,Methyloligella, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methyloligellaceae,Other, ,unknown,NA,NA,NA
+,,,,Methylophilaceae,Methylobacillus,A,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+,,,,Methylopilaceae,Methylopila,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Agrococcus,A/MA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A/MA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Amnibacterium,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Microbacteriaceae,Compostimonas,A,aerotolerant,Bergey's manual,NA,NA
+,,,,Microbacteriaceae,Conyzicola,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Curtobacterium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Frigoribacterium,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Microbacteriaceae,Frondihabitans,A,aerotolerant,Bergey's manual,NA,NA
+,,,,Microbacteriaceae,Gulosibacter,OA,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Homoserinibacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Zhang et al., 2016",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001531
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+,,,,Microbacteriaceae,Klugiella,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Leucobacter,unknown,unknown,Bergey's Manual,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804768/
+,,,,Microbacteriaceae,Luethyella,A/MA/FAN,aerotolerant,Bergey's Manual,Based on Microbacteriaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Lysinimonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Microterricola,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Mycetocola,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Microbacteriaceae,Okibacterium,A/MA/FAN,aerotolerant,Bergey's Manual,Based on Microbacteriaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Other,A/MA/FAN,aerotolerant,Bergey's Manual,Based on Microbacteriaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Parafrigoribacterium,A/MA/FAN,aerotolerant,Bergey's Manual,Based on Microbacteriaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Plantibacter,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Microbacteriaceae,Pseudoclavibacter,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Microbacteriaceae,Subtercola,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Arthrobacter,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Micrococcaceae,Citricoccus,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Glutamicibacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Kocuria,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Micrococcaceae,Micrococcus,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Nesterenkonia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Paeniglutamicibacter,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Pseudarthrobacter,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Micrococcaceae,Rothia,A/MA/FAN,aerotolerant,Bergey's Manual,Based on Microbacteriaceae,NA
+,,,,Micrococcaceae,Yaniella,A,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micromonosporales,Micromonosporaceae,Actinoplanes,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonospora,A/MA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micromonosporales,Micromonosporaceae,Other,A,aerotolerant,Bergey's Manual,Based on Micromonosporaceae,NA
+,,,,Micromonosporaceae,Stackebrandtia,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micromonosporales,Micromonosporaceae,Xiangella,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Monoglobales,Monoglobaceae,Monoglobus,OAN,nonaerotolerant,"Kim et al., 2017",Not in Bergey's,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Alkanindiges,A/FAN,aerotolerant,Bergey's Manual,Based on Moraxellaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Enhydrobacter,FA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,AN/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Cosenzaea, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Moellerella,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Morganella,FA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,Muribaculum,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Muribaculaceae,Other,OAN,nonaerotolerant,Lagkouvardos et al 2019,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,MWH-CFBk5,Other, ,unknown,NA,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycobacterium,A/MA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Bacilli,Mycoplasmatales,Mycoplasmataceae,Candidatus Bacilloplasma,FAN,aerotolerant,Bergey's Manual,Based on Mycoplasmataceae,NA
+Bacteria,Firmicutes,Bacilli,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Mycoplasmatales,Mycoplasmataceae,Other,FAN,aerotolerant,Bergey's Manual,Based on Mycoplasmataceae,NA
+,,,,Myxococcaceae,Archangium,NA,unknown,None of the info on Bergey's manual,Have not looked from beyond Bergey's,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Myxococcota,Myxococcia,Myxococcales,Myxococcaceae,P3OB-42, ,unknown,not in Bergey's,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Nakamurellaceae,Nakamurella,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Myxococcota,Polyangia,Nannocystales,Nannocystaceae,Enhygromyxa, ,unknown,not in Bergey's,NA,NA
+,,,,Nannocystaceae,Nannocystis,NA,unknown,None of the info on Bergey's manual,Have not looked from beyond Bergey's,NA
+,,,,Neisseriaceae,Neisseria,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Neisseriaceae,Other,A,aerotolerant,Bergey's Manual,Based on Neisseriaceae,NA
+,,,,Neisseriaceae,Snodgrassella,A,aerotolerant,Bergey's Manual,Based on Neisseriaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Neisseriaceae,Vitreoscilla,A/MA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,Unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Nitrospirota,Nitrospiria,Nitrospirales,Nitrospiraceae,Nitrospira,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Nocardiaceae,Gordonia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Nocardiaceae,Other,A,aerotolerant,Bergey's Manual,Based on Nocardiaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Nocardiaceae,Williamsia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Nocardioidaceae,Aeromicrobium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Nocardioidaceae,Marmoricola,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Nocardioidaceae,Mumia,A,aerotolerant,Bergey's manual (based on family),Based on Nocardioidaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Nocardioidaceae,Other,A,aerotolerant,Bergey's Manual,Based on Nocardioidaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Streptosporangiales,Nocardiopsaceae,Nocardiopsis,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,Nostocaceae,Calothrix PCC-6303, ,unknown,not in Bergey's,NA,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,Nostocaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,Nostocaceae,Rivularia PCC-7116,unknown,unknown,Bergey's Manual based on Rivularia,Based on Rivularia,NA
+Bacteria,Bdellovibrionota,Oligoflexia,Oligoflexales,Oligoflexaceae,Oligoflexus, ,unknown,not in Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"McCauley et al., 2015",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.066266-0
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter,OAN,nonaerotolerant,"Ricaboni et al., 2017",Not in Bergey's,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Flavonifractor,OAN,nonaerotolerant,Bergey's Manual,Based on Eubacterium,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Intestinimonas,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,NK4A214 group,OAN,nonaerotolerant,"Tindal et al., 2019",Not in Bergey's,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter,OAN,nonaerotolerant,Iino et al. 2007,Not in Bergey's,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospira,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Other,OA,aerotolerant,Bergey's Manual,Based on Oscillospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Papillibacter,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Pseudoflavonifractor, ,unknown,not in Bergey's,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-002, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-003, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-005,OAN,nonaerotolerant,"Tindal et al., 2019 (based on family Oscillospiraceae)",Not in Bergey's,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,UCG-007, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Clostridia vadinBB60 group,Other,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Duganella,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Noviherbaspirillum,AN/A,aerotolerant,Bergey's manual (based on family),Based on Oxalobacteraceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Oxalicibacterium,AN/A,aerotolerant,Bergey's Manual,Based on Oxalobacteraceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Oxalobacter,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Paraherbaspirillum,AN/A,aerotolerant,Bergey's Manual,Based on Oxalobacteraceae,NA
+,,,,Oxalobacteraceae,Pseudoduganella,NA,unknown,Not on Bergey's,NA,NA
+Bacteria,Firmicutes,Bacilli,Paenibacillales,Paenibacillaceae,Ammoniphilus,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Paenibacillaceae,Cohnella,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Paenibacillales,Paenibacillaceae,Paenibacillus,FAN/OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Paludibacteraceae,H1, ,unknown,not in Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Schleheck et al., 2004",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.03020-0
+NA,NA,NA,NA,NA,NA,FAN/MA/A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pasteurellaceae,Conservatibacter,unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pasteurellaceae,Mesocricetibacter,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pasteurellaceae,Muribacter,unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pasteurellaceae,Rodentibacter,FA?,aerotolerant,"Bergey's Manual, Benga, Sager & Christensen 2018",NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Nissabacter, ,unknown,not in Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptococcales,Peptococcaceae,Other,OAN,nonaerotolerant,Bergey's Manual,Based on Peptococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Peptococcales,Peptococcaceae,Peptococcus,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,[Eubacterium] tenue group, ,unknown,"Flaiz et al., 2024",NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10795377/
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Clostridioides,OAN/FAN,aerotolerant,Bergey's Manual,Based on Peptostreptococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Intestinibacter,OAN/FAN,aerotolerant,Bergey's Manual,Based on Peptostreptococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Paeniclostridium,NA,unknown,no info on Bergey's at genus or fam level,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Paraclostridium,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Peptostreptococcaceae,Peptoclostridium,NA,unknown,Not on Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Romboutsia,OAN,nonaerotolerant,"Gerritsen et al., BioRxiv 2019",not in Bergey's,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Sporacetigenium,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Terrisporobacter,OAN/FAN,aerotolerant,Bergey's Manual,Based on Peptostreptococcaceae,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Phormidesmiales,Phormidesmiaceae,Phormidesmis ANT.LACV5.1, ,unknown,not in Bergey's,NA,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,Phormidiaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,Phormidiaceae,Tychonema CCAP 1459-11B, ,unknown,NA,not in Bergey's,NA
+,,,,Phycisphaeraceae,SM1A02,A/FAN,aerotolerant,Bergey's Manual,Based on Phycisphaeraceae,NA
+Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,Blastopirellula,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,Bythopirellula,A/MA/AN,aerotolerant,Bergey's Manual,Based on Pirellulaceae,NA
+Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,Pir4 lineage,A/MA/AN,aerotolerant,Bergey's Manual,Based on Pirellulaceae,NA
+Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,Pirellula,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,Rhodopirellula,OA,aerotolerant,Bergey's Manual,NA,NA
+,,,,Pirellulaceae,Roseimaritima,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Pirellulales,Pirellulaceae,Rubripirellula,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Planococcaceae,Caryophanon,OA,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Kim et al., 2012",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.028837-0
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Kurthia,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Paenisporosarcina,A,aerotolerant,Krishnamurthi et al. 2009,not in Bergey's,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planomicrobium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Psychrobacillus,OA/FAN,aerotolerant,Bergey's Manual,Based on Planococcaceae,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Solibacillus,A,aerotolerant,"Krishnamurthi et al., 2009",not in Bergey's,NA
+Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,OA/FA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Myxococcota,Polyangia,Polyangiales,Polyangiaceae,Aetherobacter,A,aerotolerant,Garcia et al.,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Falsiporphyromonas,OAN,nonaerotolerant,Bergey's Manual,Based on Porphyromonadaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Other,OAN,nonaerotolerant,Bergey's Manual,Based on Porphyromonadaceae,NA
+NA,NA,NA,NA,NA,NA,AN/FAN,aerotolerant,"How et al., 2016",NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746253/
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Alloprevotella,OAN,nonaerotolerant,"Downes et al., 2013",Based on Prevotellaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Other,AN,aerotolerant,Bergey's Manual,Based on Prevotellaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,OAN,nonaerotolerant,"Morotomi et al., 2009",Based on Prevotellaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_7,AN,aerotolerant,Bergey's Manual,Based on Prevotella,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_9,AN,aerotolerant,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae UCG-001,AN,aerotolerant,Bergey's Manual,Based on Prevotellaceae,NA
+,,,,Prevotellaceae,Prevotellaceae UCG-003,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotellaceae UCG-004,AN,aerotolerant,Bergey's Manual,Based on Prevotellaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Promicromonosporaceae,Isoptericola,FAN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Promicromonosporaceae,Myceligenerans,A/MA,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Friedmanniella,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Marinilutecoccus, ,unknown,not in Bergey's,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Microlunatus,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Other, ,unknown,NA,NA,NA
+,,,,Propionibacteriaceae,Propionicicella,FAN,aerotolerant,Bergey's manual,NA,NA
+,,,,Propionibacteriaceae,Propioniciclava,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+,,,,Propionibacteriaceae,Raineyella,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Tessaracoccus,FA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Park et al., 2014",NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Tan et al., 2015",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.064634-0
+,,,,Pseudonocardiaceae,Actinokineospora,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Actinomycetospora,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Actinophytocola,A,aerotolerant,Bergey's manual (based on family),Based on Pseudonocardiaceae,NA
+,,,,Pseudonocardiaceae,Amycolatopsis,A/FAN,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Crossiella,A,aerotolerant,Bergey's Manual,Based on Pseudonocardiaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Kibdelosporangium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Other,A,aerotolerant,Bergey's Manual,Based on Pseudonocardiaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Pseudonocardiales,Pseudonocardiaceae,Pseudonocardia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Opitutales,Puniceicoccaceae,Cerasicoccus,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Reyranellales,Reyranellaceae,Reyranella,A,aerotolerant,"Lee et al., 2017",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001913
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Ahrensia,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Aliihoeflea,A,aerotolerant,Bergey's Manual,Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,A,aerotolerant,Bergey's Manual based on Rhizobium and Allorhizobium,Based on Rhizobium and Allorhizobium,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Aminobacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Aquamicrobium,unknown,unknown,Bergey's Manual,NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.048561-0
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Aurantimonas,A,aerotolerant,Bergey's Manual,Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Aureimonas,A,aerotolerant,Bergey's Manual (based on Rhizobiaceae),Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Brucella,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Corticibacterium,A,aerotolerant,Bergey's Manual (based on Rhizobiaceae),Based on Rhizobiaceae,NA
+,,,,Rhizobiaceae,Ensifer,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Falsochrobactrum,unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Hoeflea,A,aerotolerant,Bergey's Manual,Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Jiella,A,aerotolerant,Bergey's Manual (based on Rhizobiaceae),Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Mesorhizobium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Neorhizobium,A,aerotolerant,Bergey's Manual (based on Rhizobiaceae),Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Ochrobactrum,OA,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Yang et al., 2020",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004574
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Other,A,aerotolerant,Bergey's Manual,Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Paenochrobactrum,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Phyllobacterium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudaminobacter,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Rhizobiaceae,Pseudochrobactrum,Oxidative metabolism?,unknown,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Shinella,A,aerotolerant,Bergey's Manual,Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Tianweitania,A,aerotolerant,Bergey's Manual,Based on Rhizobiaceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Chujaibacter, ,unknown,"Kim et al., 2015",NA,https://link.springer.com/article/10.1007/s12275-015-5136-y
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dokdonella,A,aerotolerant,"Lee et al., 2014",NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4211348/
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Xie & Yokota, 2005",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.63377-0
+,,,,Rhodanobacteraceae,Frateuria,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Luteibacter, ,unknown,"Johansen et al., 2005",NA,https://pubmed.ncbi.nlm.nih.gov/16280484/
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Mizugakiibacter, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Oleiagrimonas, ,unknown,"Yang et al., 2017",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.001846
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Rhodanobacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Weon et al., 2009",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.005165-0
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Actibacterium,OA/FAN,aerotolerant,Bergey's Manual (based on Rhodobacteraceae),Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Albirhodobacter,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Amaricoccus,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Boseongicola,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Liu et al., 2023",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.006051
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Defluviimonas,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Falsirhodobacter,OA/FAN,aerotolerant,Bergey's Manual (based on Rhodobacteraceae),Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Gemmobacter,A/FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Baek et al., 2015",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000507
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Jannaschia,OA/FAN,aerotolerant,Bergey's Manual (based on Rhodobacteraceae),Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Limibaculum,OA/FAN,aerotolerant,Bergey's Manual (based on Rhodobacteraceae),Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Maribius,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+,,,,Rhodobacteraceae,Methylarcula,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Oceaniovalibus,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Octadecabacter,A/MA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Other,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paenirhodobacter,OA/FAN,aerotolerant,Bergey's Manual (based on Rhodobacteraceae),Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Plastorhodobacter,OA/FAN,aerotolerant,Bergey's Manual (based on Rhodobacteraceae),Based on Rhodobacteraceae,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Lai et al., 2013",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.041525-0
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudorhodobacter,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Pseudoruegeria,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+,,,,Rhodobacteraceae,Puniceibacterium,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,unknown,unknown,Bergey's Manual,NA,https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-5-116
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobaculum,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+,,,,Rhodobacteraceae,Roseibacterium,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+,,,,Rhodobacteraceae,Roseinatronobacter,OA,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseivivax,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rubellimicrobium,OA/FAN,aerotolerant,Bergey's Manual (based on Rhodobacteraceae),Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Sulfitobacter,OA,aerotolerant,Bergey's Manual,NA,NA
+,,,,Rhodobacteraceae,Tabrizicola,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Sass et al., 2010",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.013524-0
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Thioclava,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodobacteraceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Yoonia-Loktanella,A,aerotolerant,Bergey's Manual based on Yoonia,Based on Yoonia,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Rhodocyclaceae,Azovibrio,MA,aerotolerant,Bergey's Manual,NA,NA
+,,,,Rhodocyclaceae,Propionivibrio,OAN/A,mixed,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Rhodocyclaceae,Thauera,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhodomicrobiaceae,Rhodomicrobium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Rhodothermia,Rhodothermales,Rhodothermaceae,Rubrivirga,OA/FAN,aerotolerant,Bergey's Manual,Based on Rhodothermaceae,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Rickettsia,unknown,unknown,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,"Abe et al., 2012",NA,https://www.jstage.jst.go.jp/article/jgam/58/6/58_405/_article
+,,,,Rikenellaceae,dgA-11 gut group,NA,unknown,NA,NA,NA
+,,,,Rikenellaceae,Mucinivorans,NA,unknown,Not on Bergey's,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Other,unknown,unknown,NA,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenella,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae RC9 gut group,A?,aerotolerant,"Bergey's Manual, Graf 2014 in The Procaryotes, (based on family Rikenellaceae)",Based on Rikenellaceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rs-E47 termite group,Other, ,unknown,NA,NA,NA
+,,,,Ruaniaceae,Ruania,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Planctomycetales,Rubinisphaeraceae,Planctomicrobium,A,aerotolerant,"Kulichevskaya et al., 2015",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.000154
+Bacteria,Planctomycetota,Planctomycetes,Planctomycetales,Rubinisphaeraceae,SH-PL14, ,unknown,not in Bergey's,NA,NA
+Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Rubritaleaceae,Luteolibacter,OA/FAN,aerotolerant,Bergey's Manual,Based on Rubritaleaceae,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,OA/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,[Eubacterium] siraeum group,OAN,nonaerotolerant,Bergey's Manual (based on genus Eubacterium),Based on Eubacterium,NA
+,,,,Ruminococcaceae,Anaerofilum,OAN,nonaerotolerant,Bergey's manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Anaerotruncus,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Angelakisella,OAN,nonaerotolerant,Mailhe et al. 2017b,Not in Bergey's,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Candidatus Soleaferrea,OAN,nonaerotolerant,Bergey's Manual,Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Caproiciproducens,OAN,nonaerotolerant,Bergey's Manual,Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,DTU089,OAN,nonaerotolerant,Bergey's Manual,Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Fournierella,OAN,nonaerotolerant,Bergey's Manual (based on Ruminococcaceae All species are obligate anaerobes),Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Harryflintia,OAN,nonaerotolerant,Bergey's Manual (based on Ruminococcaceae All species are obligate anaerobes),Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Incertae Sedis,AN,aerotolerant,"Stackebrandt e. The Family Lachnospiraceae in Rosenberg E et al., The Prokaryotes (all members of Lachnospiraceae are anaerobes)",Based on Lachnospiraceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Negativibacillus,OAN,nonaerotolerant,Bergey's Manual,Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Other,OAN,nonaerotolerant,Bergey's Manual,Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Paludicola,OAN,nonaerotolerant,Bergey's Manual,Based on Ruminococcaceae,NA
+,,,,Ruminococcaceae,Phocea,OAN,nonaerotolerant,Bergey's Manual,Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Pygmaiobacter,OAN,nonaerotolerant,Bergey's Manual (based on Ruminococcaceae All species are obligate anaerobes),Based on Ruminococcaceae,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus,OAN,nonaerotolerant,"Bergey's Manual, Browne et al., 2016 ",NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Subdoligranulum,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,UBA1819,OAN,nonaerotolerant,Bergey's Manual Browne et al. 2016 (based on family Ruminococcaceae),Based on Faecalibacterium,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Salinisphaerales,Salinisphaeraceae,Salinisphaera,OA/FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Myxococcota,Polyangia,Polyangiales,Sandaracinaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Sanguibacteraceae,Sanguibacter-Flavimobilis,unknown,unknown,Bergey's Manual,Based on Sanguibacter,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004829
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Saprospiraceae,Lewinella,A,aerotolerant,Bergey's manual (based on family),Based on Saprospiraceae,NA
+Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Saprospiraceae,Other,A,aerotolerant,Bergey's Manual,Based on Saprospiraceae,NA
+,,,,Saprospiraceae,Rubidimonas,A,aerotolerant,Bergey's Manual,Based on Saprospiraceae,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,SC-I-84,Other, ,unknown,NA,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Planctomycetales,Schlesneriaceae,Planctopirus, ,unknown,not in Bergey's,NA,NA
+Bacteria,Planctomycetota,Planctomycetes,Planctomycetales,Schlesneriaceae,Schlesneria,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+,,,,Selenomonadaceae,Megamonas,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Shewanellaceae,Shewanella,FAN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Solibacteraceae,Candidatus Solibacter,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Friedrich & Lipski, 2008",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65517-0
+Bacteria,Actinobacteriota,Thermoleophilia,Solirubrobacterales,Solirubrobacteraceae,Conexibacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Thermoleophilia,Solirubrobacterales,Solirubrobacteraceae,Other, ,unknown,Bergey's Manual,Based on Solirubrobacteraceae,NA
+Bacteria,Actinobacteriota,Thermoleophilia,Solirubrobacterales,Solirubrobacteraceae,Parviterribacter, ,unknown,"Foesel et al., 2016",not in Bergey's,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000770
+Bacteria,Actinobacteriota,Thermoleophilia,Solirubrobacterales,Solirubrobacteraceae,Patulibacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Thermoleophilia,Solirubrobacterales,Solirubrobacteraceae,Solirubrobacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Prasad et al., 2013",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.044420-0
+NA,NA,NA,NA,NA,NA,FA,aerotolerant,"Pankratov et al., 2007",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65100-0
+Bacteria,Bacteroidota,Bacteroidia,Sphingobacteriales,Sphingobacteriaceae,Pedobacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,unknown,unknown,"Cao et al., 2014",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.053991-0
+Bacteria,Bacteroidota,Bacteroidia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Altererythrobacter,OA,aerotolerant,"Yoon et al., 2019",NA,https://academic.oup.com/femsle/article/366/11/fnz131/5519857
+,,,,Sphingomonadaceae,Ellin6055,NA,unknown,NA,Have not looked from beyond Bergey's,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Erythrobacter,A,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Felfoldi et al., 2014",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.053736-0
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,A,aerotolerant,Bergey's manual,NA,NA
+,,,,Sphingomonadaceae,Polymorphobacter,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Qipengyuania, FA,aerotolerant,"Feng et al., 2015",NA,https://pubmed.ncbi.nlm.nih.gov/26220187/
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,"Francis et al., 2014",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.058909-0
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingopyxis,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Sphingomonadaceae,Sphingorhabdus,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,"Chen et al., 2022",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005198
+NA,NA,NA,NA,NA,NA,OAN/FAN,mixed,Bergey's Manual,Based on Spirochaeta,NA
+,,,,Spirosomaceae,Dyadobacter,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Spirosomaceae,Persicitalea,OA,aerotolerant,"Yoon et al., 2007",NA,https://pubmed.ncbi.nlm.nih.gov/17473250/
+Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Spirosomaceae,Rhabdobacter, ,unknown,not in Bergey's,NA,NA
+NA,NA,NA,NA,NA,NA,OA/FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,A/FAN,aerotolerant,Bergey's Manual,Based on Sporichthyaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Sporichthyaceae,Longivirga,A/FAN,aerotolerant,Bergey's manual (based on family),Based on Sporichthyaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Frankiales,Sporichthyaceae,Other,A/FAN,aerotolerant,Bergey's Manual,Based on Sporichthyaceae,NA
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Sporomusaceae,Dendrosporobacter,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Sporomusaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Sporomusaceae,Sporomusa,AN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Corticicoccus, ,unknown,not in Bergey's,NA,NA
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Jeotgalicoccus,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Macrococcus, ,unknown,not in Bergey's,NA,NA
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Stappiaceae,Labrenzia, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Stappiaceae,Other, ,unknown,NA,NA,NA
+,,,,Steroidobacteraceae,Steroidobacter,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Other,FAN,aerotolerant,Bergey's Manual,Based on Streptococcaceae,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Streptomycetales,Streptomycetaceae,Kitasatospora,A,aerotolerant,Bergey's manual (based on family),Based on Streptomycetaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Streptomycetales,Streptomycetaceae,Other,A,aerotolerant,Bergey's Manual,Based on Streptomycetaceae,NA
+Bacteria,Actinobacteriota,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Streptosporangiaceae,Nonomuraea,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Streptosporangiales,Streptosporangiaceae,Streptosporangium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Sulfobacillia,Sulfobacillales,Sulfobacillaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Sumerlaeota,Sumerlaeia,Sumerlaeales,Sumerlaeaceae,Sumerlaea,unknown,unknown,"Kwon et al., 2007",NA,https://pubmed.ncbi.nlm.nih.gov/18051608/
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Parasutterella,OAN,nonaerotolerant,"Nagai et al., 2009",AURA - CANNOT FIND THIS REF?,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,MA/AN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,"Jumas-Bilak et al., 2007",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.65213-0
+NA,NA,NA,NA,NA,NA,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Candidatus Vestibaculum, ,unknown,not in Bergey's,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Macellibacteroides, ,unknown,not in Bergey's,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,OAN,nonaerotolerant,Sakamoto & Benno 2006,not in Bergey's,NA
+Bacteria,Firmicutes,Bacilli,Thermoactinomycetales,Thermoactinomycetaceae,Other,A,aerotolerant,Bergey's Manual,Based on Thermoactinomycetaceae,NA
+Bacteria,Firmicutes,Bacilli,Thermoactinomycetales,Thermoactinomycetaceae,Risungbinella,A,aerotolerant,Bergey's manual (based on family),Based on Thermoactinomycetaceae,NA
+,,,,Thermoactinomycetaceae,Thermoactinomyces,A,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,AN,aerotolerant,Bergey's Manual,Listed to be 'neutrophilic anaerobic' but not said explicitly to be obligate anaerobes,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Thermomonosporaceae,Actinocorallia,A,aerotolerant,Bergey's manual,NA,NA
+,,,,Thermomonosporaceae,Actinomadura,A,aerotolerant,Bergey's manual,NA,NA
+Bacteria,Deinococcota,Deinococci,Deinococcales,Trueperaceae,Truepera,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Actinobacteriota,Actinobacteria,Corynebacteriales,Tsukamurellaceae,Tsukamurella,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Clostridia,Oscillospirales,UCG-010,Other, ,unknown,NA,NA,NA
+,,,,Unknown Family,Acuticoccus,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+NA,NA,NA,NA,NA,NA,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Bacilli,Lactobacillales,Vagococcaceae,Vagococcus,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister,OAN,nonaerotolerant,Bergey's Manual,NA,NA
+,,,,Veillonellaceae,Megasphaera,AN,aerotolerant,Bergey's manual,Listed as 'anaerobic' so no 'obligate'/'strictly' mentioned.,NA
+Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Veillonella,AN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Verrucomicrobiaceae,Verrucomicrobium,FAN,aerotolerant,Bergey's manual,NA,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Vibrio,FAN,aerotolerant,Bergey's Manual,NA,NA
+,,,,Vicinamibacteraceae,Vicinamibacter,A,aerotolerant,Bergey's manual,NA,NA
+,,,,Victivallaceae,Victivallis,OAN,nonaerotolerant,Bergey's manual,NA,NA
+,,,,Vulgatibacteraceae,Vulgatibacter,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Planctomycetota,Phycisphaerae,Tepidisphaerales,WD2101 soil group,Other, ,unknown,NA,NA,NA
+NA,NA,NA,NA,NA,NA,OA,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Candidatus Hemobacterium, ,unknown,not in Bergey's,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Chishuiella, ,unknown,not in Bergey's,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Chryseobacterium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Weeksellaceae,Empedobacter,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Weeksellaceae,Moheibacter,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+NA,NA,NA,NA,NA,NA,FAN,aerotolerant,"Du et al., 2016",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.000683
+Bacteria,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,Wohlfahrtiimonadaceae,Ignatzschineria, ,unknown,"Do et al., 2021",NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8181187/
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,Wohlfahrtiimonadaceae,Wohlfahrtiimonas, ,unknown,"Kozyk et al., 2023",NA,https://onlinelibrary.wiley.com/doi/full/10.1002/ccr3.6972
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Afipia,A,aerotolerant,NA,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Pseudolabrys, ,unknown,"KŠmpfer et al., 2006",NA,https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijs.0.64124-0
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Pseudorhodoplanes, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodoplanes,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodopseudomonas,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Xanthomonadaceae,Arenimonas,NA,unknown,Not on Bergey's,Have not looked from beyond Bergey's,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Luteimonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Lysobacter,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,SN8, ,unknown,not in Bergey's,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Thermomonas,A,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,Xenococcaceae,Pleurocapsa PCC-7319,A,aerotolerant,Bergey's Manual,NA,NA
+,,,,Xiphinematobacteraceae,Candidatus Xiphinematobacter,Unknown,unknown,Bergey's manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Other, ,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Rahnella,FAN,aerotolerant,Bergey's Manual,NA,NA
+NA,NA,NA,NA,NA,NA,NA,unknown,NA,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,FAN,aerotolerant,Bergey's Manual,NA,NA
+Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,FAN,aerotolerant,Bergey's Manual,NA,NA
