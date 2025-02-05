@@ -351,6 +351,46 @@ saveRDS(phy, "MUSMUS/musmus_labVSwild_final_PS.RDS")
 
 ```
 
+***Step6: Investigate read counts across all samples included in the study***
+
+```{r}
+
+mussamples <- read.csv("MUSMUS_sampleIDs.csv", header=F)
+phy <- readRDS("IMR_16S_NO_DOUBLETONS.rds")
+sample_data(phy)$IMR_code <- rownames(sample_data(phy))
+
+phy <- subset_samples(phy, IMR_code%in%mussamples$V1)
+phy # 864 samples
+
+# For some reason hadn't saved read count data for lab mouse samples, adding here
+raw <- readRDS("IMR_16s_phyloseq.rds")
+sample_data(raw)$read_count_add <- sample_sums(raw)
+key <- data.frame(sample_data(raw))
+key$IMR_code <- rownames(key)
+key <- key[,c("IMR_code", "read_count_add")]
+
+df <- data.frame(sample_data(phy))
+df <- merge(df, key, by="IMR_code", all=F)
+check <- df[,c("Source","read_count", "read_count_add")] # looks good
+df$read_count <- ifelse(is.na(df$read_count), df$read_count_add, df$read_count)
+metadata <- df
+
+# Compute mean and standard deviation for Wild samples
+wild_reads <- metadata$read_count[metadata$Source == "Wild"]
+wild_mean <- mean(wild_reads, na.rm = TRUE)
+wild_range <- range(wild_reads, na.rm = TRUE)
+
+# Compute mean and standard deviation for Lab samples
+lab_reads <- metadata$read_count[metadata$Source == "Lab"]
+lab_mean <- mean(lab_reads, na.rm = TRUE)
+lab_range <- range(lab_reads, na.rm = TRUE)
+
+# Print results
+cat(sprintf("Wild mice - Mean read count: %.2f, range: %.2f\n", wild_mean, wild_range))
+cat(sprintf("Lab mice - Mean read count: %.2f, range: %.2f\n", lab_mean, lab_range)) 
+
+```
+
 ***Q1: Do wild mice have a higher alpha diversity than lab mice?***
 
 ```{r}
@@ -1717,6 +1757,18 @@ sample_data(time)$include[sample_data(time)$Sample_ID%in%long$Sample_ID] <- "yes
 time <- subset_samples(time, include=="yes")
 table(sample_data(time)$Project) # 99 lab, 555 wild - correct
 
+# For lab mice, add cage density
+# C00072610 C00079971 C00087205 C00090961 C00091454 C00096262 C00103059 C00103824 C00103825 C00115156 C00115157 C00116613 C00127404 
+#       2         3         2         1         2         2         3         5         3         3         3         2         2 
+sample_data(time)$cage_density <- 2
+sample_data(time)$cage_density[sample_data(time)$Cage=="C00079971" | sample_data(time)$Cage=="C00103059" | sample_data(time)$Cage=="C00103825" | sample_data(time)$Cage=="C00115156" | sample_data(time)$Cage=="C00115157"] <- 3
+sample_data(time)$cage_density[sample_data(time)$Cage=="C00103824"] <- 5
+sample_data(time)$cage_density[sample_data(time)$Cage=="C00090961"] <- 1
+sample_data(time)$cage_density[sample_data(time)$Source=="Wild"] <- NA
+table(sample_data(time)$cage_density)
+#  2  3  5 
+# 12 53 34 
+
 # Jaccard
 D <- phyloseq::distance(time, method = "jaccard", type = "samples", binary=T)
 D <- as.matrix(D)
@@ -1727,12 +1779,12 @@ sd$newdate <- strptime(as.character(sd$Collection_date), "%d/%m/%Y") # here use 
 sd$Date <- format(sd$newdate, "%Y-%m-%d") 
 sd <- sd[order(sd$Animal_ID, sd$Date, decreasing = F),]
 sd$Time_point <- as.numeric(unlist(lapply(split(sd, sd$Animal_ID), function(x) { rank(x$Date) })))
-sd <- data.frame(sd[,c("Source", "Mouse", "Animal_ID", "Date", "Time_point")])
+sd <- data.frame(sd[,c("Source", "Mouse", "Animal_ID", "Date", "Time_point", "cage_density")])
 colnames(D_melt) <- c("mouse1", "mouse2", "BC_distance")
 distance <- merge(D_melt, sd, by.x="mouse1", by.y="Mouse", all.x = TRUE, all.y=FALSE)
-colnames(distance) <- c("mouse1", "mouse2", "BC_distance", "mouse1_source", "mouse1_id", "mouse1_date", "mouse1_tp")
+colnames(distance) <- c("mouse1", "mouse2", "BC_distance", "mouse1_source", "mouse1_id", "mouse1_date", "mouse1_tp", "mouse1_cage_density")
 distance <- merge(distance, sd, by.x="mouse2", by.y="Mouse", all.x = TRUE, all.y=FALSE)
-colnames(distance) <- c("mouse2", "mouse1", "BC_distance", "mouse1_source", "mouse1_id", "mouse1_date", "mouse1_tp", "mouse2_source", "mouse2_id", "mouse2_date", "mouse2_tp")
+colnames(distance) <- c("mouse2", "mouse1", "BC_distance", "mouse1_source", "mouse1_id", "mouse1_date", "mouse1_tp", "mouse1_cage_density","mouse2_source", "mouse2_id", "mouse2_date", "mouse2_tp", "mouse2_cage_density")
 distance <- na.omit(distance)
 self <- distance[which(distance$mouse1_id==distance$mouse2_id),] # only self comparisons
 first_tp <- sd[which(sd$Time_point==1),]
@@ -1759,6 +1811,20 @@ range(lab$added_days) # 9-197
 
 wild <- wild[which(wild$added_days<=200),]
 lab <- lab[which(lab$added_days<=200),]
+
+# Cage density counts
+lab_5 <- subset(lab, mouse1_cage_density == 5)
+check <- lab_5[,c("mouse1_id", "mouse1")]
+check <- check[!duplicated(check),]
+table(check$mouse1_id) # 5 mice, 5-6 samples each
+lab_3 <- subset(lab, mouse1_cage_density == 3)
+check <- lab_3[,c("mouse1_id", "mouse1")]
+check <- check[!duplicated(check),]
+table(check$mouse1_id) # 9 mice, 4-6 samples each
+lab_2 <- subset(lab, mouse1_cage_density == 2)
+check <- lab_2[,c("mouse1_id", "mouse1")]
+check <- check[!duplicated(check),]
+table(check$mouse1_id) # 2 mice, 5 samples each
 
 set.seed(6435)
 
@@ -1847,6 +1913,62 @@ p1 <- ggplot(lab, aes(x=added_days_step, y=aitch_sim)) +
   ggtitle("") + xlim(0,200) + ylim(0,1)  
 p <- p1 + theme(rect = element_rect(fill = "transparent"))
 ggsave("MUSMUS/MUSMUS_figures/Lab_turnover_Jaccard.png", width=6.2, height=6.23)
+
+# Lab mouse, now separated by cage density (3 or 5; there is also cage density=2, but these mice have been sampled only in short time intervals and there is a small sample size)
+lab <- lab[which(lab$mouse1_cage_density!=2),]
+lab$aitch_sim <- lab$BC_distance
+
+# Subset data for two groups
+lab_3 <- subset(lab, mouse1_cage_density == 3)
+check <- lab_3[,c("mouse1_id", "mouse1")]
+check <- check[!duplicated(check),]
+table(check$mouse1_id) # 43 samples, 4-6 samples from 9 animals
+lab_5 <- subset(lab, mouse1_cage_density == 5)
+check <- lab_5[,c("mouse1_id", "mouse1")]
+check <- check[!duplicated(check),]
+table(check$mouse1_id) # 29 samples, 5-6 samples from 5 animals
+
+# Fit separate linear models
+lm_3 <- lm(aitch_sim ~ added_days_step, data = lab_3)
+summary(lm_3) # F-statistic: 322.2 on 1 and 125 DF,  p-value: < 2.2e-16, Adjusted R-squared:  0.7183 
+plot(lm_3) # looks fine
+lm_5 <- lm(aitch_sim ~ added_days_step, data = lab_5)
+summary(lm_5) # F-statistic: 198.6 on 1 and 97 DF,  p-value: < 2.2e-16, Adjusted R-squared:  0.6685 
+plot(lm_5)
+
+# Create prediction frames for both models
+pred_3 <- data.frame(added_days_step = seq(min(lab$added_days_step), max(lab$added_days_step), length.out = 100))
+pred_3$preds <- predict(lm_3, newdata = pred_3)
+
+pred_5 <- data.frame(added_days_step = seq(min(lab$added_days_step), max(lab$added_days_step), length.out = 100))
+pred_5$preds <- predict(lm_5, newdata = pred_5)
+
+# Add group info for ggplot legend
+pred_3$mouse1_cage_density <- 3
+pred_5$mouse1_cage_density <- 5
+
+# Combine both prediction datasets
+predictions <- rbind(pred_3, pred_5)
+
+# Plot with separate lines and point styles
+p1 <- ggplot(lab, aes(x = added_days_step, y = aitch_sim, group = as.factor(mouse1_cage_density))) +
+  geom_point(aes(shape = as.factor(mouse1_cage_density), fill = as.factor(mouse1_cage_density)), 
+             size = 2, alpha = .8, color = "#C38D94") +  # Maintains original color
+  geom_line(data = predictions, aes(y = preds, linetype = as.factor(mouse1_cage_density)), 
+            size = 1, color = "#C38D94") +  # Maintains original color
+  scale_shape_manual(values = c("3" = 1, "5" = 16)) +  # Empty circle for 3, filled for 5
+  scale_linetype_manual(values = c("3" = "dashed", "5" = "solid")) +  # Dashed line for 3, solid for 5
+  scale_fill_manual(values = c("3" = "white", "5" = "#C38D94")) +  # White fill for empty circle, original color for filled
+  ylab("Jaccard dissimilarity") +
+  xlab("Days elapsed") +
+  theme_minimal() +
+  theme(axis.title = element_text(size = 25), 
+        axis.text = element_text(size = 20),
+        title = element_text(size = 25),
+        legend.position = "none") +  # Removes the legend
+  ggtitle("") + xlim(0, 200) + ylim(0, 1)
+p <- p1 + theme(rect = element_rect(fill = "transparent"))
+ggsave("MUSMUS/MUSMUS_figures/Lab_turnover_Jaccard_byCageDensity.png", width=6.2, height=6.23)
 
 # For comparison, repeating the above but with across-individual rather than within-individual distances:
 
@@ -2711,9 +2833,6 @@ lw_sequences <- as.list(lw_sequences)
 library(seqinr)
 write.fasta(sequences = lw_sequences, names = lw_sequences, file.out = "MUSMUS/Limosilactobacillus_sequences_MUSMUS.fna") # FASTA header is same as sequence, i.e. using sequences as otu id's.
 
-# RESULTS:
-# ADD_HERE
-
 ```
 
 ```{r}
@@ -2874,6 +2993,139 @@ df$ratio <- (df$ratio * (samplesize - 1) + 0.5) / samplesize
 #model1 <- brm(ratio ~ 1 + Source + (1 | Animal_ID) + (1 | read_count) + (1 | Unknown), data = df, family = "Beta",control = list(adapt_delta = 0.9, max_treedepth = 12), warmup = 2000, iter = 4000, cores = 1, chains = 1,save_pars = save_pars(group = FALSE), init = 0)
 
 ```
+
+```{r}
+
+# Could the higher proportion of aerotolerant taxa in wild mice be explained by (possibly) higher relative abundance of gammaproteobacteria? Repeat above analysis but exclude gammaproteobacteria.
+
+aero <- read.csv("MUSMUS/MUSMUS_aerotolerance_data.csv") 
+
+aero$Aerotolerance_cat[aero$Aerotolerance_cat=="nonaeotolerant"] <- "nonaerotolerant"
+aero <- aero[,c("Family", "Genus", "Aerotolerance_cat")]
+aero$Family_Genus <- paste(aero$Family, aero$Genus, sep="-") # 698
+aero <- aero[!duplicated(aero),] # 698
+
+phy <- readRDS("MUSMUS/musmus_labVSwild_final_PS.RDS") # 7934 taxa
+
+# Remove Gammaproteobacteria from the phyloseq 
+phy <- subset_taxa(phy, Class != "Gammaproteobacteria") # 7641 taxa
+phy <- microbiome::transform(phy, "compositional")
+  
+wild <- subset_samples(phy, Source=="Wild")
+sample_data(wild)$Project_ID <- sample_data(wild)$Project
+lab <- subset_samples(phy, Source=="Lab")
+sample_data(lab)$Project_ID <- paste(sample_data(lab)$Project, sample_data(lab)$Date, sample_data(lab)$Strain, sep="-")
+phy <- merge_phyloseq(wild, lab)
+taxa <- data.frame(tax_table(phy)) 
+taxa <- taxa[,c("Family", "Genus")]
+taxa <- taxa[!duplicated(taxa),] 
+taxa$Family_Genus <- paste(taxa$Family, taxa$Genus, sep="-")
+
+taxa <- merge(taxa, aero, by.all="Family_Genus", all.x=TRUE, all.y=FALSE) 
+table(taxa$Aerotolerance_cat)
+taxa$Aerotolerance_cat[taxa$Aerotolerance_cat=="Unknown"] <- "unknown"
+taxa$Aerotolerance_cat[taxa$Aerotolerance_cat==""] <- "unknown"
+taxa$Aerotolerance_cat[taxa$Aerotolerance_cat=="Mixed"] <- "unknown"
+taxa$Aerotolerance_cat[taxa$Aerotolerance_cat=="mixed"] <- "unknown"
+taxa$unknown <- "unknown"
+taxa$Aerotolerance_cat <- ifelse(is.na(taxa$Aerotolerance_cat), taxa$unknown, taxa$Aerotolerance_cat)
+table(taxa$Aerotolerance_cat) 
+un <- taxa[which(taxa$Aerotolerance_cat=="unknown"),]
+length(unique(un$Family)) 
+
+phy2 <- phy %>%
+  #aggregate_taxa(level = "Genus") %>%  
+  microbiome::transform(transform = "compositional")
+phy_melt <- psmelt(phy2)
+taxa_min <- taxa[,c("Family", "Genus", "Aerotolerance_cat")]
+taxa_min$fam_gen <- paste(taxa_min$Family, taxa_min$Genus, sep="-")
+phy_melt$fam_gen <- paste(phy_melt$Family, phy_melt$Genus, sep="-") # 498192
+phy_phe <- merge(phy_melt, taxa_min, by="fam_gen", all.x=TRUE, all.y=FALSE) # 498192
+
+aero_key <- phy_phe[,c("OTU", "Aerotolerance_cat")]
+aero_key <- aero_key[!duplicated(aero_key),]
+
+arr <- phy_phe[,c("Sample", "Aerotolerance_cat", "Abundance")]
+arr$ID <- paste(arr$Sample, arr$Aerotolerance_cat, sep="-")
+arr <- arr[,c("ID", "Abundance")]
+
+arr2 <- arr %>%
+  group_by(ID) %>%
+  summarise(total_count = sum(Abundance))
+
+arr2$Sample_ID <- sub("\\-.*", "", arr2$ID)
+arr2$Aerotolerance <- sub("[^-]+", '', x = arr2$ID)
+arr2$Aerotolerance <- str_sub(arr2$Aerotolerance, start = 2)
+
+source <- phy_phe[,c("Sample", "Source", "Project_ID")]
+arr3 <- merge(arr2, source, by.x="Sample_ID", by.y="Sample", all.x=T, all.y=F) # 1494576
+arr3 <- arr3[!duplicated(arr3),] # 1746
+
+# Quickly check relative abundance of aerotolerant and anaerobic taxa in lab vs wild
+checkAero <- arr3[which(arr3$Aerotolerance=="aerotolerant"),]
+checkAeroLab <- checkAero[which(checkAero$Source=="Lab"),]
+summary(checkAeroLab$total_count)
+#   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+# 0.02466 0.05835 0.09783 0.11198 0.14330 0.35828
+sd(checkAeroLab$total_count) # 0.07133448
+checkAeroWild <- checkAero[which(checkAero$Source=="Wild"),]
+summary(checkAeroWild$total_count)
+# Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+# 0.06175 0.22301 0.30670 0.36496 0.42799 0.99927 
+sd(checkAeroWild$total_count) # 0.2049814
+checkAnaero <- arr3[which(arr3$Aerotolerance=="nonaerotolerant"),]
+checkAnaeroLab <- checkAnaero[which(checkAnaero$Source=="Lab"),]
+summary(checkAnaeroLab$total_count)
+# Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+#  0.6180  0.8499  0.8977  0.8783  0.9372  0.9733  
+sd(checkAnaeroLab$total_count) # 0.07496234
+checkAnaeroWild <- checkAnaero[which(checkAnaero$Source=="Wild"),]
+summary(checkAnaeroWild$total_count)
+#  Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+# 0.0006598 0.5144387 0.6219397 0.5845853 0.7107845 0.8864183
+sd(checkAnaeroWild$total_count) # 0.1961931
+
+# Continue
+
+arr4 <- arr3[,c("Project_ID", "Aerotolerance", "total_count")]
+arr4$id <- paste(arr4$Project_ID, arr4$Aerotolerance, sep="*")
+arr4 <- arr4[,c("id", "total_count")]
+arr5 <- arr4 %>%
+  group_by(id) %>%
+  summarise(total_count_mean = mean(total_count))
+arr5$Project_ID <- sub("\\*.*", "", arr5$id)
+arr5$Aerotolerance <- sub("[^*]+", '', x = arr5$id)
+arr5$Aerotolerance <- str_sub(arr5$Aerotolerance, start = 2)
+
+arr5$order <- NA
+arr5$order[arr5$Project_ID=="BMS-04/12/2020-PdgfraCreERT2"] <- 13
+  arr5$order[arr5$Project_ID=="C57BL_6-Kings_college-C57BL/6"] <- 12
+  arr5$order[arr5$Project_ID=="BMS-04/12/2020-CCSP_rtTAtg/(tetO)75FTPBtg"] <- 11
+  arr5$order[arr5$Project_ID=="Lab-Kennedy-C57BL/6"] <- 10
+  arr5$order[arr5$Project_ID=="Cologne"] <- 7
+  arr5$order[arr5$Project_ID=="C57BL_6-BMS_18102021-C57BL/6"] <- 9
+  arr5$order[arr5$Project_ID=="Lab-Kennedy-SKG"] <- 8
+  arr5$order[arr5$Project_ID=="Wytham"] <- 6
+  arr5$order[arr5$Project_ID=="Skokholm"] <- 5
+  arr5$order[arr5$Project_ID=="Faroe"] <- 4
+  arr5$order[arr5$Project_ID=="Midway_Atoll"] <- 3
+  arr5$order[arr5$Project_ID=="Isle_of_May"] <- 2
+  arr5$order[arr5$Project_ID=="Espelette"] <- 1
+
+arr5$Aerotolerance <- factor(arr5$Aerotolerance, levels = c("aerotolerant", "nonaerotolerant", "unknown"))
+
+plot <- ggplot(arr5, aes(fill = Aerotolerance, y = total_count_mean, x = reorder(order, order))) + 
+  geom_bar(position = "fill", stat = "identity") +
+  scale_fill_manual(values = c("aerotolerant" = "#3F6584", "nonaerotolerant" = "#B14D3E", "unknown" = "grey62")) +
+  theme_classic() + theme(axis.text.x = element_text(size=20),
+        axis.text.y = element_text(size=30),
+        axis.title.y = element_text(size=35),
+        axis.ticks.x=element_blank(),panel.grid.major = element_blank(), panel.grid.minor = element_blank(), panel.spacing = unit(2, "lines")) + ylab("Relative abundance")
+p <- plot + theme(rect = element_rect(fill = "transparent"), axis.title.x = element_blank(), legend.title = element_blank(), legend.text = element_blank())
+ggsave("MUSMUS/MUSMUS_figures/LabWild_aerotolerance_wOut_Gammaproteobacteria.png", width=8.5, height=6)
+
+```
+
 
 ***Q10: Are anaerobic and aerobic communities equally variable across individuals?***
 
